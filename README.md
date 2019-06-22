@@ -4,9 +4,6 @@
 
 **star**一个表鼓励，也不容易搞丢链接哦!
 
-有疑问的同学也可以加我**微信**： purple12369
-
-
 ### [CSS](CSS/README.md)
 
 ### [HTML](HTML/README.md)
